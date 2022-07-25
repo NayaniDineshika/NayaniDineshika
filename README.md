@@ -24,7 +24,7 @@
   <a href="https://github.com/Kasuni-Kavindya-Munasinghe/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayani-Dineshika&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaniDineshika&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/Kasuni-Kavindya-Munasinghe/github-readme-stats">
