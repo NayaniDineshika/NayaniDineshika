@@ -27,11 +27,11 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaniDineshika&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/Kasuni-Kavindya-Munasinghe/github-readme-stats">
+  <a href="https://github.com/NayaniDineshika/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Kasuni-Kavindya-Munasinghe&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=NayaniDineshika&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
     />
   </a>
 </p>
@@ -60,7 +60,3 @@
 </p>
 
 
-<!---
-Kasuni-Kavindya-Munasinghe/Kasuni-Kavindya-Munasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
