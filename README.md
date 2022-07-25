@@ -1,20 +1,20 @@
 </div>
 <div align="center">
-   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Kasuni Kavindya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Nayani Dineshika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
    
 </div>
 
 ### Connect with me:
 <p align='center'>
-    <a href="https://www.linkedin.com/in/kasuni-kavindya-munasinghe-b79b28203/"><img height="30" src="https://img.icons8.com/color/50/000000/linkedin.png"></a>&nbsp;&nbsp;
-     <a href="kasunimunasinghe0@gmail.com"><img height="30" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"></a>&nbsp;&nbsp;
+    <a href="www.linkedin.com/in/nayani-nandasiri-12680a227"><img height="30" src="https://img.icons8.com/color/50/000000/linkedin.png"></a>&nbsp;&nbsp;
+     <a href="nayani.dn@gmail.com"><img height="30" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"></a>&nbsp;&nbsp;
    
 </p>
 
 <hr>
 
 <div align="center">
-<h3> 💻 Full Stack Developer  <br> 🎓 I am from Sri Lanka. currently I'm a Undergraduate student at at SLIIT Sri Lanka (BSc (Hons) in Information Technology Specialising in Information Technology) </h3>
+<h3> 💻 Full Stack Developer  <br> 🎓 I am from Sri Lanka. currently I'm a Undergraduate student at at SLIIT Sri Lanka (BSc (Hons) in Information Technology Specialising in Software Engineering) </h3>
 </div>
 <br>
 <br>
@@ -24,7 +24,7 @@
   <a href="https://github.com/Kasuni-Kavindya-Munasinghe/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasuni-Kavindya-Munasinghe&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayani-Dineshika&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/Kasuni-Kavindya-Munasinghe/github-readme-stats">
