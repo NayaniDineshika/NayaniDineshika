@@ -43,44 +43,44 @@ development, and clean code principles. Strong ability to learn quickly, adapt t
 <p align="center">
 
   <!-- Frontend -->
-  <img src="assets/badges/Frameworks/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Frameworks/react.svg" alt="React.js" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Languages/typescript.svg" alt="TypeScript" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Languages/css.svg" alt="CSS" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
   <br>
 
   <!-- Backend -->
-  <img src="assets/badges/Languages/csharp.svg" alt="C#" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Frameworks/dotnet.svg" alt=".NET 6/7" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Frameworks/webapi.svg" alt="Web API" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Frameworks/linq.svg" alt="LINQ" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_API-00599C?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
   <br>
 
   <!-- Cloud & Databases -->
-  <img src="assets/badges/Cloud/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Database/sql.svg" alt="SQL" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Database/mongodb.svg" alt="MongoDB" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Database/firebase.svg" alt="Firebase" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/ORM/efcore.svg" alt="Entity Framework Core" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
   <br>
 
   <!-- Testing -->
-  <img src="assets/badges/Testing/nunit.svg" alt="NUnit" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Testing/playwright.svg" alt="Playwright" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
   <br>
 
   <!-- Tools -->
-  <img src="assets/badges/Tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Tools/git.svg" alt="Git" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Tools/jira.svg" alt="Jira" style="vertical-align:top; margin:4px">
-  <img src="assets/badges/Tools/figma.svg" alt="Figma" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </p>
 
