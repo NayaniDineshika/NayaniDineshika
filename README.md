@@ -14,7 +14,10 @@
 <hr>
 
 <div align="center">
-<h3> 💻 Full Stack Developer  <br> 🎓 I am from Sri Lanka. currently I'm a Undergraduate student at at SLIIT Sri Lanka (BSc (Hons) in Information Technology Specialising in Software Engineering) </h3>
+<h3> 💻 Full Stack Developer  <br> 🎓 I am from Sri Lanka. BSc (Hons) graduate in Information Technology, specialized in Software Engineering, with nearly 2 years of
+hands-on experience in full-stack development. Experienced in modern web technologies, agile
+development, and clean code principles. Strong ability to learn quickly, adapt to new tools, and deliver highquality solutions in both team and independent settings.
+ </h3>
 </div>
 <br>
 <br>
