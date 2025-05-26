@@ -41,25 +41,48 @@ development, and clean code principles. Strong ability to learn quickly, adapt t
 
 ## ✨ Languages and tools... ✨
 <p align="center">
-  
-   <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">     
-  <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
- 
- <br>
- 
-  <img src="assets\badges\Languages\java.svg" alt="java" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Languages\js.svg" alt="js" style="vertical-align:top; margin:4px">  
-  <img src="assets\badges\Languages\php.svg" alt="php" style="vertical-align:top; margin:4px"> 
-  <img src="assets\badges\Languages\html.svg" alt="html" style="vertical-align:top; margin:4px">
 
- <br>
- 
-   <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">    
-  <img src="assets\badges\Tools\android_studio_colour.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Tools\visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  
+  <!-- Frontend -->
+  <img src="assets/badges/Frameworks/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Frameworks/react.svg" alt="React.js" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Languages/typescript.svg" alt="TypeScript" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Languages/css.svg" alt="CSS" style="vertical-align:top; margin:4px">
+
+  <br>
+
+  <!-- Backend -->
+  <img src="assets/badges/Languages/csharp.svg" alt="C#" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Frameworks/dotnet.svg" alt=".NET 6/7" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Frameworks/webapi.svg" alt="Web API" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Frameworks/linq.svg" alt="LINQ" style="vertical-align:top; margin:4px">
+
+  <br>
+
+  <!-- Cloud & Databases -->
+  <img src="assets/badges/Cloud/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Database/sql.svg" alt="SQL" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Database/mongodb.svg" alt="MongoDB" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Database/firebase.svg" alt="Firebase" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/ORM/efcore.svg" alt="Entity Framework Core" style="vertical-align:top; margin:4px">
+
+  <br>
+
+  <!-- Testing -->
+  <img src="assets/badges/Testing/nunit.svg" alt="NUnit" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Testing/playwright.svg" alt="Playwright" style="vertical-align:top; margin:4px">
+
+  <br>
+
+  <!-- Tools -->
+  <img src="assets/badges/Tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Tools/git.svg" alt="Git" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Tools/jira.svg" alt="Jira" style="vertical-align:top; margin:4px">
+  <img src="assets/badges/Tools/figma.svg" alt="Figma" style="vertical-align:top; margin:4px">
+
 </p>
+
 
 
